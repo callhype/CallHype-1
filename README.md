@@ -1,2 +1,2 @@
-# CallHype
-Static HTML5 site project. Run `npm install` and then `npm run dev` to start with local server. Then open http://localhost:3000 and explore the demo page.
+# The Call Hype Network
+Call Hype is a platform for financial professionals, and advertisers to buy media from local ZIP Codes.  
